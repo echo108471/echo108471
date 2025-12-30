@@ -71,7 +71,7 @@ https://eacho.me/
 
 ## 📫 Contact Me
 
-Email: [eugene.a.cho@gmail.com](mailto:eugene.a.cho@gmail.com)  
+Email: [eacho@ucdavis.edu](mailto:eacho@ucdavis.edu)  
 LinkedIn: [Eugene Cho](https://www.linkedin.com/in/eachoo/)  
 
 ---
