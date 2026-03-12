@@ -31,7 +31,7 @@ I am currently most interested in full-stack development! My goal is to build im
 
 ---
 
-### tools & frameworks
+### frameworks
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)  
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat&logo=svelte&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  
@@ -58,3 +58,4 @@ LinkedIn: [Eugene Cho](https://www.linkedin.com/in/eachoo/)
 ---
 
 > if u read this honestly im flattered
+> thanks for visiting :)
